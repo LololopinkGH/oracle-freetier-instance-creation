@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaaztlrumqc6qonrrfr367kuxkek3xuc75fek7o3yki2shv2ajoi76a
+fingerprint=d3:5c:2c:2b:dd:97:54:71:bf:52:b9:6c:48:d4:84:93
+key_file=/home/lololopink/oracle-freetier-instance-creation/oci_api_private_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaai42xlmec4v4rai6ois4d7og4jwobd7pzmb3gzhvyy3s7uafqs4lq
+region=ap-singapore-1
